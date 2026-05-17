@@ -38,3 +38,11 @@ The simple linear regression model was evaluated against the unseen test data, y
 2. Ensure you have the required libraries installed:
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+3. Open the Jupyter Notebook:
+   ``` bash
+   jupyter notebook "Completed_Temperature Prediction_Test.ipynb"
+
+4. Run all cells to view the data processing, model training, and evaluation plots.
+
+🔮 Future Scope
+While this simple linear regression model provides a foundational look at the data, weather patterns are complex. Future iterations of this project will consider using polynomial regression or time-series models to capture more complex, non-linear relationships.
